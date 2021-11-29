@@ -1,6 +1,8 @@
 import pygame
 import random
 
+# saperek
+
 pygame.init()
 
 screen = pygame.display.set_mode((500,500))
